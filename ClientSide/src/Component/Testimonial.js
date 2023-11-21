@@ -7,18 +7,18 @@ export default function Testimonial() {
         <h1>Why Clients Loves Us ? </h1>
       </div>
       <div className="TestimonialPara">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        This is What Only Trust can Get 
       </div>
       <div class="outerdiv">
         <div class="innerdiv">
           <div class="div1 eachdiv">
             <div class="userdetails">
-              <div class="imgbox">
+              {/* <div class="imgbox">
                 <img
                   src="https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-daniel.jpg "
                   alt=""
                 />
-              </div>
+              </div> */}
               <div class="detbox">
                 <p class="name">Daniel Clifford</p>
                 <p class="designation">Happy Customer</p>
@@ -43,12 +43,12 @@ export default function Testimonial() {
 
           <div class="div2 eachdiv">
             <div class="userdetails">
-              <div class="imgbox">
+              {/* <div class="imgbox">
                 <img
                   src="https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-jonathan.jpg"
                   alt=""
                 />
-              </div>
+              </div> */}
               <div class="detbox">
                 <p class="name">Jonathan Walters</p>
                 <p class="designation">Happy Customer</p>
@@ -66,12 +66,12 @@ export default function Testimonial() {
 
           <div class="div3 eachdiv">
             <div class="userdetails">
-              <div class="imgbox">
+              {/* <div class="imgbox">
                 <img
                   src="https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-kira.jpg"
                   alt=""
                 />
-              </div>
+              </div> */}
               <div class="detbox">
                 <p class="name dark">Kira Whittle</p>
                 <p class="designation dark">Happy Customer</p>
@@ -100,12 +100,12 @@ export default function Testimonial() {
 
           <div class="div4 eachdiv">
             <div class="userdetails">
-              <div class="imgbox">
+              {/* <div class="imgbox">
                 <img
                   src="https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-jeanette.jpg"
                   alt=""
                 />
-              </div>
+              </div> */}
               <div class="detbox">
                 <p class="name dark">Jeanette Harmon</p>
                 <p class="designation dark">Happy Customer</p>
@@ -123,12 +123,12 @@ export default function Testimonial() {
 
           <div class="div5 eachdiv">
             <div class="userdetails">
-              <div class="imgbox">
+              {/* <div class="imgbox">
                 <img
                   src="https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-patrick.jpg"
                   alt=""
                 />
-              </div>
+              </div> */}
               <div class="detbox">
                 <p class="name">Patrick Abrams</p>
                 <p class="designation">Happy Customer</p>
